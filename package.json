@@ -1,0 +1,28 @@
+
+{
+  "name": "gulp",
+  "version": "0.0.1",
+  "dependencies": {
+    
+    "gulp": "latest",
+    "gulp-jshint": "latest",
+    "gulp-changed": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-minify-html": "latest",
+    "gulp-concat": "latest",
+    "gulp-strip-debug": "latest",
+    "gulp-uglify": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-livereload": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-livereload": "latest",
+    "tiny-lr": "latest",
+    "express": "latest",
+    "path": "latest",
+    "gulp-less": "latest"
+
+
+    
+  }
+
+}
